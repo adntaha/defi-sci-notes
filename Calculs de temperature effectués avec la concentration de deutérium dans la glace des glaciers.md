@@ -1,3 +1,9 @@
+---
+title: Calculs de temperature effectués avec la concentration de deutérium dans la glace des glaciers
+tags:
+  - physique
+---
+
 Dans l'ocean, il y a de l'eau qui vient dans differents varietes: Hydrogene ou Deuterium, 16 O et 18 O. Donc, on compare la concentration de ceux-ci aujourd'hui avec ceux dans la glasse
 
 Lorsqu'il fait chaud, bcp d'evaporation. Il prend plus denergie pour evaporer l'eau si elle est composee de deuterium.
